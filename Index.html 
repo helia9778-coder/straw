@@ -5,9 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>دنیای انیمه | معرفی و بررسی انیمه‌های برتر</title>
   <meta name="description" content="معرفی بهترین انیمه‌ها، بررسی شخصیت‌ها، اخبار انیمه‌های جدید و تحلیل داستان.">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>دنیای انیمه</h1>
-  <p>به دنیای انیمه خوش آمدید. اینجا بهترین انیمه‌ها رو معرفی می‌کنیم.</p>
+  <header>
+    <h1>دنیای انیمه</h1>
+    <nav>
+      <a href="index.html">خانه</a>
+      <a href="about.html">درباره ما</a>
+      <a href="contact.html">تماس</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>به دنیای انیمه خوش آمدید</h2>
+    <p>اینجا بهترین انیمه‌ها رو معرفی می‌کنیم، شخصیت‌های محبوب رو تحلیل می‌کنیم و اخبار دنیای انیمه رو پوشش می‌دیم.</p>
+
+    <h2>آخرین مقالات</h2>
+    <ul>
+      <li><a href="#">به‌زودی...</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© ۱۴۰۵ - دنیای انیمه</p>
+  </footer>
 </body>
 </html>
